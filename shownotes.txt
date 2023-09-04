@@ -1,0 +1,13 @@
+In this impactful episode of the Non-Intuitive Bits podcast, hosts Slava and Nishant Sharma dive into a varied array of discussions. The conversation starts off with them sharing their struggles with transitioning to Linux from MacOS tool, mentioning tools like Mission Control and Troipoid.
+
+They also discuss Fathom, an AI-driven management tool known for features like talk-time tracking and meeting summaries. The hosts contemplate on the future roles of AI, such as managing vacation requests and a futuristic concept of a "manager as a service".
+
+Gaming fans would love the deep dive into games like Armored Core 6, Elden Ring, Souls, and Counter-Strike GO. They express their excitement for the upcoming CS2 on Valve's Source 2 engine and the upcoming Starfield's 'constellation edition' by Bethesda. The discussion continues with features on Poly Bridge 1 & 3, Euro Truck Simulator, and Microsoft Flight Simulator.
+
+The podcast ends with a thoughtful discussion on the complications of manual VPN connections and the potential for automation solutions, including intriguing prospects of location-based automation in VPN.
+
+Throughout the episode, the hosts also delve into operational specifics including the use of GPT tools like Jess and Jess P, innovations in AI technology like AutoMod, and the cost-efficiency exploration of using OpenAI API.
+
+To top it all, Slava and Nishant recount their ongoing two-year long travel journey starting in March, exploring various national parks and cities with Airbnb stays across the States. They recount memories from cities like Chicago, Boston, and Bozeman, Montana.
+
+Looking for a co-host, the hosts promise more enlightening discussions in future episodes, making this podcast a must-listen for tech and travel enthusiasts!
