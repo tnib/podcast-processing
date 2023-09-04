@@ -1,0 +1,3 @@
+#!/bin/bash
+
+jess process -i ./shownotes.txt -p "Thes are the shownotes for the latest episode of the podcast. Can you suggest episode title? Keep in mind I am not searching for podcast title, I need episode title so it should be highly relevant to the specific (not general) topics discussed in the podcast. But also do not try to put all facts in title, pick one fact that pick one that you think should be the central one and build title around it."
