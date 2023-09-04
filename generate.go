@@ -30,4 +30,6 @@ func main() {
 		panic(err)
 	}
 	fmt.Println("final result: ", result)
+	// save to file
+	err = ioutil.WriteFile("./shownotes.txt", []byte(result), 0644)
 }
