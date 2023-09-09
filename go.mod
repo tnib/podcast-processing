@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/assistant-ai/llmchat-client v1.0.11
-	github.com/assistant-ai/prompt-tools v1.0.0
+	github.com/assistant-ai/prompt-tools v1.1.1
 )
 
 require (

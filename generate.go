@@ -23,13 +23,15 @@ func main() {
 	executor := chainexecutor.NewSimpleChainExecutor().
 		LlmClient(client).
 		Text(podcastTranscript).
-		TaskPromt("Create podcast show notes from the podcast transcript. They should be short, but to the point with facts about what was discussed in the podcast. Will be published in iTunes. Good example of shownotes: podcast Radio-T, use it as example of how I want shownotes to look like.")
+		TaskPromt("Generate podcast show notes from the provided transcript. The notes should be concise yet factual, summarizing key points discussed in the episode. These show notes will be published on iTunes. Avoid excessive use of buzzwords; the aim is to inform listeners rather than attract attention. For formatting and style, refer to the show notes of the podcast Radio-T as a guideline. Do not explicitly mention that the style is similar to Radio-T. Additionally, here's the Discord link for further discussion: https://discord.gg/T38WpgkHGQ. Please format the output in Markdown. Also in the beggining of your output list 3-4 suggested podcast title names.")
 
 	result, err := executor.Execute()
 	if err != nil {
 		panic(err)
 	}
 	fmt.Println("final result: ", result)
-	// save to file
 	err = ioutil.WriteFile("./shownotes.txt", []byte(result), 0644)
+	if err != nil {
+		panic(err)
+	}
 }

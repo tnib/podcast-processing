@@ -544,6 +544,8 @@ github.com/assistant-ai/llmchat-client v1.0.11 h1:oCX+1fnX9nWANsRT42EIteZKsoVs76
 github.com/assistant-ai/llmchat-client v1.0.11/go.mod h1:AKf4NXpEqQBL0VqKm0hB6ukVVzAFjjUqbxhloT4gnwo=
 github.com/assistant-ai/prompt-tools v1.0.0 h1:FbD3HCSdirDoVnHHPKoCCNxkitbkIFxeUI25/L2YMTs=
 github.com/assistant-ai/prompt-tools v1.0.0/go.mod h1:pqOaMeFdszEOFc0bkfeqkmLI80QNT/9MzVRs04HlkM8=
+github.com/assistant-ai/prompt-tools v1.1.1 h1:cUoEZGbftnMPqXYDr0C2THgy4sbPdN9opK0LCSzH7AA=
+github.com/assistant-ai/prompt-tools v1.1.1/go.mod h1:pqOaMeFdszEOFc0bkfeqkmLI80QNT/9MzVRs04HlkM8=
 github.com/b0noi/go-utils/v2 v2.2.1 h1:NYpqM7V0W88VPV+B6dXDRJDFmtIVYiN63hFM4QWlpIQ=
 github.com/b0noi/go-utils/v2 v2.2.1/go.mod h1:VRWywVwJ8quLi79WbBBVAHGZjO0Vs4m8j2Pr9qT/xUw=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
