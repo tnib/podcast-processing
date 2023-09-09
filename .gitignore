@@ -1,3 +1,12 @@
+#project related
+podcast.mp3
+transcript.txt
+facebook.txt
+linkedin.txt
+shownotes.txt
+title.txt
+twitter.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
