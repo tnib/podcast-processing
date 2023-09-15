@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jess process -i ./title.txt -i ./shownotes.txt -p "here is title and podcast shownotes, can you generate twitter message to publish for me to share with my audience this episode?" -o ./twitter.txt
+jess process -i ./title.txt -i ./shownotes.txt -p "here is title and podcast shownotes and title, can you generate twitter message to for me to publish to share with my audience this episode? keep in mind I do not have twitter blue so message should be short enought that I can publish, your also has to take to account that I will add url to your text, so keep that in mind when thinking about the size of the tweet." -o ./twitter.txt
